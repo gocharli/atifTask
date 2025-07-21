@@ -38,7 +38,7 @@ export default function Header() {
           <a href="#" className="hover:text-green-500">
             HOME
           </a>
-          <a href="#" className="hover:text-green-500">
+          <a href="/about" className="hover:text-green-500">
             ABOUT
           </a>
           <a href="#" className="hover:text-green-500">
